@@ -1,4 +1,5 @@
 
+[![Build Status](https://tcsrupesh.visualstudio.com/DemoProject/_apis/build/status/17kumarrupesh.pipelines-java?branchName=azure-pipelines)](https://tcsrupesh.visualstudio.com/DemoProject/_build/latest?definitionId=7&branchName=azure-pipelines)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
